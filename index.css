@@ -7,6 +7,19 @@
     --color2: red;
 }
 
+a {
+    background-image: linear-gradient(yellow, cyan, lime);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 15px;
+    width: 150px;
+    height: 60px;
+    float: right;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 23px;
+    text-align: center;
+}
+
 body {
     background-image: url("https://i.pinimg.com/originals/7f/3a/68/7f3a68fe9ae08dfcfb26a0863a20d375.gif");
     background-position: center;
